@@ -13,4 +13,4 @@ PRINCIPAIS OBJETIVOS:
 - Como modelar o seu domínio; 
 - Utilizar recursos de coleção.
 
-Atualizado em 20 de Maio de 2021
+Atualizado em 21 de Maio de 2021
